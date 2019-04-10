@@ -1,0 +1,1 @@
+2019-04-09 11:03:41,947 (main) [INFO - org.apache.flume.sink.DefaultSinkFactory.create(DefaultSinkFactory.java:42)] Creating instance of sink: elasticsearch-sink, type: elasticsearch

@@ -1,0 +1,8 @@
+org/apache/flume/sink/elasticsearch/TestElasticSearchDynamicSerializer.class
+org/apache/flume/sink/elasticsearch/client/RoundRobinListTest.class
+org/apache/flume/sink/elasticsearch/TimeBasedIndexNameBuilderTest.class
+org/apache/flume/sink/elasticsearch/TimestampedEventTest.class
+org/apache/flume/sink/elasticsearch/client/TestElasticSearchRestClient.class
+org/apache/flume/sink/elasticsearch/client/TestElasticSearchTransportClient.class
+org/apache/flume/sink/elasticsearch/TestElasticSearchSinkCreation.class
+org/apache/flume/sink/elasticsearch/client/TestElasticSearchClientFactory.class
